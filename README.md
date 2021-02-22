@@ -1,12 +1,6 @@
 <html lang="en" class="h-100">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
-    <meta name="generator" content="Hugo 0.80.0">
     <title>BPBJ Prov. Gorontalo</title>
-
     <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/cover/">
     <link href="assets/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
     <link rel="apple-touch-icon" href="assets/apple-touch-icon.png" sizes="180x180">
@@ -80,13 +74,11 @@
           </nav>
         </div>
       </header>
-
       <main class="px-3">
         <img src="assets/logo-provinsi.png" alt="Provinsi Gorontalo">
         <h1>BIRO PENGADAAN BARANG JASA</h1>
         <h3>Sekretariat Daerah Provinsi Gorontalo</h3>
       </main>
-
       <footer class="mt-auto text-white-50">
         <p>Copyright &copy; 2021 <a href="" class="text-white" style="text-decoration: none;"><strong>BPBJ Provinsi Gorontalo</strong></a></p>
       </footer>
